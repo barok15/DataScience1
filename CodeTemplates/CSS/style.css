@@ -1,0 +1,31 @@
+﻿.myTitle{
+    font-size: 12px;
+}
+
+#largeTitle{
+    font-size: 50px;
+}
+h1{
+    font-family: "Jost", sans-serif;
+}
+
+#allTitles {
+    padding-top: 70px;
+    font-family: 'Jost', sans-serif;
+    line-height: 0.8;
+}
+
+div{
+    padding-left: 500px;
+    padding-right: 640px;
+}
+
+#allParagraphs{
+    padding-left: 500px;
+    padding-right: 640px;
+    font-size: 16px;
+}
+
+#middle{
+    font-size: 20px;
+}
